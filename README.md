@@ -1,0 +1,1 @@
+# SmartdigimktDomainSwitchAdapter_SPM
