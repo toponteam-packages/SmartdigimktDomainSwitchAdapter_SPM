@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-# SmartdigimktDomainSwitchAdapter_SPM
-#
-=======
-<<<<<<< HEAD
 # Smartdigimkt Domain Switch Adapter
 
 An optional iOS domain switch adapter distributed through Swift Package Manager.
@@ -86,8 +81,3 @@ Before tagging a release:
 
 The zip must contain the `SmartdigimktDomainSwitchAdapter.xcframework` binary
 used by the `SmartdigimktDomainSwitchAdapter` binary target.
-=======
-# SmartdigimktDomainSwitchAdapter_SPM
-#
->>>>>>> aedd93f62f0b5cd420998dff826250243184168d
->>>>>>> Stashed changes
