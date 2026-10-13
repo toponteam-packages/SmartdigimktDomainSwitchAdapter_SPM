@@ -76,7 +76,7 @@ Before tagging a release:
    checksum for the `v6.5.66` archive is:
 
    ```text
-   2cbb10f1b2a6f45e736d1fc634cabcf015a93988bd1a38ecf09f2a0f7ec09e70
+   1c5cd066875668045c99c961d25bf98d669c2d33890174ff9dfabff6f56fdeea
    ```
 
 The zip must contain the `SmartdigimktDomainSwitchAdapter.xcframework` binary
